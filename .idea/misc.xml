@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/activity_daftar_penyewa.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/activity_detail_pesanan.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/activity_edit_penyewa.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/activity_formpemesanan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/activity_mainmenu.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/daftarpenyewalist.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/detailbmws1000rr.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/detailmotorh2.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/detailmt07.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/detailtmax.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/edit.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/loginrent.xml" value="0.2" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/layout/row_data_penyewa.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/rentMotor/app/src/main/res/menu/popupmenu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

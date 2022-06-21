@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ppdetail" android:title="Detail Penyewa"/>
+    <item android:id="@+id/ppedit" android:title="Edit Penyewa"/>
+    <item android:id="@+id/ppHapus" android:title="Hapus"/>
+
+</menu>

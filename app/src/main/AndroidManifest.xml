@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.rentmotor">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RentMotor">
+        <activity
+            android:name=".Mainmenu"
+            android:exported="false" />
+        <activity
+            android:name=".DetailPesanan"
+            android:exported="false" />
+        <activity
+            android:name=".DaftarPenyewa"
+            android:exported="false" />
+        <activity
+            android:name=".formpemesanan"
+            android:exported="false" />
+        <activity
+            android:name=".editPenyewa"
+            android:exported="false" />
+        <activity
+            android:name=".DetailHDua"
+            android:exported="false" />
+        <activity
+            android:name=".DetailMtTujuh"
+            android:exported="false" />
+        <activity
+            android:name=".DetailBMWS"
+            android:exported="false" />
+        <activity
+            android:name=".DetailTMax"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
